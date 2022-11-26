@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nikolai Potapov
-- 👀 I’m interested in data engineering, data analytics and programming
-- 🌱 I’m currently learning on course of MASA in Israel
+- 👀 I’m interested in Data Engineering, Data Analytics and Programming
+- 🌱 I’m currently learning on MASA program in Israel
 - 📫 How to reach me npotapov.job@gmail.com
