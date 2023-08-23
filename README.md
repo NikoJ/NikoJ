@@ -5,6 +5,6 @@
 </div>
 
 - 👋 Hi, I’m Nikolai Potapov
-- 💼 I have experience in DE for more than 3 years
+- 💼 I have experience in DE for more than 4 years
 - 👀 I’m interested in Data Engineering (DE), Data Analytics (DA) and Programming
 - 📫 How to reach me npotapov.job@gmail.com
