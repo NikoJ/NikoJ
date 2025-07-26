@@ -41,10 +41,3 @@
   <code><img width="5%" src="https://cdn.simpleicons.org/scylladb" /></code>
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikoJ&repo=articles" />
-  </a>
-</p>
