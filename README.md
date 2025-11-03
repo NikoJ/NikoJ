@@ -7,9 +7,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently working on [Onebeat](https://onebeat.co/);
+- 👨🏽‍💻 I'm currently working as Data Consultant;
 - 👀 I'm interested in Data Engineering (DE), Data Analytics (DA) and Programming;
-- 💼 I have experience in DE for more than 5 years;
+- 💼 I have experience in DE for more than 6 years;
 - 🌱 I’m currently learning Rust and Distribution Engines; 
 - ⚡️ Fun-Fact: I have a Master's degree in Information Systems and Technology applied to Patient Care Institutions;
 - ❤️ I love to travel;
