@@ -1,4 +1,4 @@
-<img width="80%" align="center" alt="Github" src="https://github.com/NikoJ/NikoJ/blob/85c34eb0585b8e0c57b655e6d4b5e408d3e6685c/background-image-nikolai-potapov.jpeg" />
+<img width="80%" align="center" alt="Github" src="https://github.com/NikoJ/NikoJ/blob/94e96f90061af882274f3e842363df3145997e22/banner_npotapov.png" />
 
 [![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/NikoJ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nik%D0%BElai-p%D0%BEtap%D0%BEv-67269524b/)
