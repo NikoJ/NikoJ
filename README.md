@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning AI, Rust and Distribution Engines; 
 - ⚡️ Fun-Fact: I have a Master's degree in Information Systems and Technology applied to Patient Care Institutions;
 - ❤️ I love to travel;
-- 📫 How to reach me: npotapov.job@gmail.com or [LinkedIn](https://www.linkedin.com/in/nikolai-potapov-67269524b/)
+- 📫 How to reach me: npotapov.job@gmail.com or [LinkedIn](https://www.linkedin.com/in/nik%D0%BElai-p%D0%BEtap%D0%BEv-67269524b/)
 
 **Favorite tools:**
 
