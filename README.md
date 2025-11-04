@@ -1,7 +1,7 @@
 <img width="100%" align="center" alt="Github" src="https://github.com/NikoJ/NikoJ/blob/0cc902304d8254f4d1505a0aa76b5b8769d6c95f/banner_npotapov.png" />
 
 [![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/NikoJ)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nik%D0%BElai-p%D0%BEtap%D0%BEv-67269524b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/npotapov-data-consultant/)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&labelColor=white&logo=medium&logoColor=black)](https://medium.com/@npotapov)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:npotapov.job@gmail.com)
 
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning AI, Rust and Distribution Engines; 
 - ⚡️ Fun-Fact: I have a Master's degree in Information Systems and Technology applied to Patient Care Institutions;
 - ❤️ I love to travel;
-- 📫 How to reach me: npotapov.job@gmail.com or [LinkedIn](https://www.linkedin.com/in/nik%D0%BElai-p%D0%BEtap%D0%BEv-67269524b/)
+- 📫 How to reach me: npotapov.job@gmail.com or [LinkedIn](https://www.linkedin.com/in/npotapov-data-consultant/)
 
 **Favorite tools:**
 
