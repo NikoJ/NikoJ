@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Niko on Data — Data Engineer & Consultant</title>
+  <meta name="description" content="Niko on Data — Senior Data Engineer & Data Consultant. Polars, ClickHouse, Delta Lake, orchestration, modern data platforms." />
+  <style>
+    :root{
+      --bg:#0b1020; --fg:#e8ecff; --muted:rgba(232,236,255,.82);
+      --card:rgba(255,255,255,.06); --border:rgba(255,255,255,.12);
+      --shadow:rgba(0,0,0,.35); --chip:rgba(255,255,255,.10);
+      --link:rgba(255,255,255,.16); --linkHover:rgba(255,255,255,.08);
+      --max:980px;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--fg)}
+    a{color:var(--fg);text-decoration:none}
+    a:hover{opacity:.95}
+    .wrap{max-width:var(--max);margin:0 auto;padding:28px 16px 60px}
+    .nav{display:flex;gap:14px;flex-wrap:wrap;align-items:center;justify-content:space-between;margin-bottom:26px}
+    .brand{font-weight:700;letter-spacing:.2px}
+    .menu{display:flex;gap:12px;flex-wrap:wrap}
+    .menu a{padding:8px 10px;border:1px solid var(--border);border-radius:12px;background:rgba(0,0,0,.12)}
+    .hero{display:grid;grid-template-columns:1.4fr .9fr;gap:16px;align-items:stretch}
+    @media (max-width:900px){.hero{grid-template-columns:1fr}}
+    .card{background:var(--card);border:1px solid var(--border);border-radius:20px;box-shadow:0 10px 30px var(--shadow)}
+    .pad{padding:22px}
+    h1{margin:0 0 10px;font-size:34px;line-height:1.12}
+    p{margin:0;color:var(--muted);line-height:1.55}
+    .chips{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0}
+    .chip{font-size:12px;border:1px solid var(--border);background:var(--chip);padding:6px 10px;border-radius:999px;color:var(--muted)}
+    .cta{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+    .btn{display:inline-block;padding:10px 12px;border-radius:14px;border:1px solid var(--border);background:rgba(0,0,0,.22)}
+    .btn.primary{background:rgba(255,255,255,.08)}
+    .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:14px}
+    @media (max-width:900px){.grid3{grid-template-columns:1fr}}
+    .h2{font-size:16px;margin:0 0 8px}
+    .small{font-size:13px;color:var(--muted)}
+    .section{margin-top:18px}
+    .section h2{margin:0 0 10px;font-size:18px}
+    .list{display:grid;gap:10px}
+    .item{padding:14px;border-radius:16px;border:1px solid var(--border);background:rgba(0,0,0,.16)}
+    .item b{display:block;margin-bottom:6px}
+    .footer{margin-top:26px;color:rgba(232,236,255,.62);font-size:12px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="nav">
+      <div class="brand">Niko on Data</div>
+      <div class="menu">
+        <a href="#about">About / CV</a>
+        <a href="#writing">Writing</a>
+        <a href="#consulting">Consulting</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </div>
+
+    <div class="hero">
+      <div class="card pad">
+        <h1>Senior Data Engineer & Data Consultant</h1>
+        <p>
+          I build and optimize modern data platforms: fast transformations, reliable storage,
+          pragmatic orchestration, and production-grade observability — with a strong focus on
+          Polars, ClickHouse, Delta Lake and OSS-first architectures.
+        </p>
+
+        <div class="chips">
+          <span class="chip">Polars</span>
+          <span class="chip">ClickHouse</span>
+          <span class="chip">Delta Lake (delta-rs)</span>
+          <span class="chip">DuckDB</span>
+          <span class="chip">Orchestration</span>
+          <span class="chip">Data Quality</span>
+        </div>
+
+        <div class="cta">
+          <a class="btn primary" href="#consulting">See consulting</a>
+          <a class="btn" href="#writing">Read my writing</a>
+          <a class="btn" href="#contact">Contact</a>
+        </div>
+      </div>
+
+      <div class="card pad">
+        <p class="small">Quick links</p>
+        <div class="list" style="margin-top:10px">
+          <div class="item">
+            <b>Substack</b>
+            <a href="https://nikoondata.substack.com" target="_blank" rel="noreferrer">nikoondata.substack.com</a>
+          </div>
+          <div class="item">
+            <b>GitHub</b>
+            <a href="https://github.com/NikoOnData" target="_blank" rel="noreferrer">github.com/NikoOnData</a>
+          </div>
+          <div class="item">
+            <b>LinkedIn</b>
+            <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">linkedin.com</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid3">
+      <div class="card pad">
+        <div class="h2">Engineering</div>
+        <p class="small">ETL/ELT, medallion architecture, storage design, performance tuning, production reliability.</p>
+      </div>
+      <div class="card pad">
+        <div class="h2">Writing</div>
+        <p class="small">Mini Query Engine series, Polars internals, ClickHouse experiments, practical architecture.</p>
+      </div>
+      <div class="card pad">
+        <div class="h2">Consulting</div>
+        <p class="small">Second opinion on architecture, performance audits, implementation plans, hands-on sessions.</p>
+      </div>
+    </div>
+
+    <div id="about" class="section card pad">
+      <h2>About / CV</h2>
+      <p>
+        Madrid-based engineer with 5+ years building data pipelines and platforms.
+        I like systems that are fast, observable, and easy to operate.
+      </p>
+
+      <div class="list" style="margin-top:12px">
+        <div class="item">
+          <b>Highlights</b>
+          <div class="small">
+            • ClickHouse on Kubernetes: administration, migrations, query tuning<br/>
+            • Delta Lake-based data lake (versioning + ACID) on S3<br/>
+            • Polars adoption for big performance + memory wins<br/>
+            • Cross-functional work with DS/Analytics to improve productivity
+          </div>
+        </div>
+
+        <div class="item">
+          <b>Core skills</b>
+          <div class="small">
+            Python, SQL, Spark, Polars, ClickHouse, Delta Lake, AWS S3, Kubernetes, Terraform, dbt, Superset, Temporal
+          </div>
+        </div>
+
+        <div class="item">
+          <b>CV</b>
+          <div class="small">
+            Add a PDF later: upload <code>cv.pdf</code> to the repo and link it here.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="writing" class="section card pad">
+      <h2>Writing</h2>
+      <p class="small">A curated list (start manual, automate later).</p>
+
+      <div class="list" style="margin-top:12px">
+        <div class="item">
+          <b>Mini Query Engine (MQE)</b>
+          <div class="small">
+            • <a href="https://nikoondata.substack.com" target="_blank" rel="noreferrer">Series on Substack</a>
+          </div>
+        </div>
+        <div class="item">
+          <b>Polars</b>
+          <div class="small">
+            • Add top posts (Substack / Medium / TDS links)
+          </div>
+        </div>
+        <div class="item">
+          <b>ClickHouse</b>
+          <div class="small">
+            • Add experiments / best practices links
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="consulting" class="section card pad">
+      <h2>Consulting</h2>
+      <p class="small">Clear packages with outcomes. Simple to understand, easy to buy.</p>
+
+      <div class="list" style="margin-top:12px">
+        <div class="item">
+          <b>1) Architecture / “Second opinion” (60–90 min)</b>
+          <div class="small">
+            Outcome: actionable plan, risks, quick wins, next steps. Good when you’re stuck or unsure.
+          </div>
+        </div>
+
+        <div class="item">
+          <b>2) ClickHouse performance audit</b>
+          <div class="small">
+            Outcome: query + table tuning recommendations, settings checklist, prioritized action list.
+          </div>
+        </div>
+
+        <div class="item">
+          <b>3) Data pipeline reliability & observability</b>
+          <div class="small">
+            Outcome: retries/backfills strategy, monitoring plan, data quality checks that actually work.
+          </div>
+        </div>
+
+        <div class="item">
+          <b>How I work</b>
+          <div class="small">
+            Short call → access to metrics / sample data → written report + follow-up session.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="contact" class="section card pad">
+      <h2>Contact</h2>
+      <div class="list" style="margin-top:12px">
+        <div class="item">
+          <b>Email</b>
+          <div class="small"><a href="mailto:you@email.com">you@email.com</a></div>
+        </div>
+        <div class="item">
+          <b>LinkedIn</b>
+          <div class="small"><a href="https://www.linkedin.com" target="_blank" rel="noreferrer">Profile link</a></div>
+        </div>
+        <div class="item">
+          <b>GitHub</b>
+          <div class="small"><a href="https://github.com/NikoOnData" target="_blank" rel="noreferrer">NikoOnData</a></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      © <span id="y"></span> Niko on Data · Built on GitHub Pages
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
