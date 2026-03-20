@@ -42,3 +42,10 @@
   <code><img width="5%" src="https://cdn.simpleicons.org/scylladb" /></code>
 </p>
 
+**Certificates:**
+
+<p >
+  <code><img width="15%" src="https://images.credly.com/images/016890da-da03-4af3-b295-0853a11b1fa1/image.png" /></code>
+  <code><img width="15%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/175261211" /></code>
+</p>
+
