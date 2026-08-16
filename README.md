@@ -8,9 +8,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently working as Data Consultant;
+- 👨🏽‍💻 I'm currently working as Senior Data Engineer at Semrush;
 - 👀 I'm interested in Data Engineering (DE), Data Analytics (DA) and Programming;
-- 💼 I have experience in DE for more than 6 years;
+- 💼 I have experience in DE for more than 7 years;
 - 🌱 I’m currently learning AI, Rust and Distribution Engines; 
 - ⚡️ Fun-Fact: I have a Master's degree in Information Systems and Technology applied to Patient Care Institutions;
 - ❤️ I love to travel;
