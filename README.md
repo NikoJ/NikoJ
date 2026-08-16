@@ -1,4 +1,4 @@
-<img width="100%" align="center" alt="Github" src="https://github.com/NikoJ/NikoJ/blob/0cc902304d8254f4d1505a0aa76b5b8769d6c95f/banner_npotapov.png" />
+<img width="100%" align="center" alt="Github" src="https://github.com/NikoJ/NikoJ/blob/d3dae080e3342a06896cc1a51e52d32ff8bb6132/Banner_v2.png" />
 
 [![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/NikoJ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/npotapov-data-consultant/)
